@@ -1,4 +1,4 @@
-# Decentralized Secure Aggregation in Cross-Silo Federated Learning
+# Privacy-Preserving Decentralized Secure Aggregation in Cross-Silo Federated Learning
 
 This repository is based on an implementation from [Shaoxiong Ji's PyTorch Implementation of Federated Learning](http://doi.org/10.5281/zenodo.4321561), which is a reproduction of the paper [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629). Our contributions include the implementation of a secure aggregation scheme and a simplified SVFL protocol, both of which are detailed in our research.
 
